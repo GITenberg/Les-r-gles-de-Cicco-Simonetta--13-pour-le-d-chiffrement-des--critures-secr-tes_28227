@@ -1,0 +1,35 @@
+_repo: Les-r-gles-de-Cicco-Simonetta--13-pour-le-d-chiffrement-des--critures-secr-tes_28227
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Simonetta, Francesco
+    alias: Simonetta, Cicco
+    birthdate: 1410
+    deathdate: 1480
+    gutenberg_agent_id: '33214'
+    url: http://www.gutenberg.org/2009/agents/33214
+    wikipedia: http://en.wikipedia.org/wiki/Cicco_Simonetta
+  editor:
+    agent_name: Perret, Paul Michel
+    birthdate: 1861
+    deathdate: 1893
+    gutenberg_agent_id: '33215'
+    url: http://www.gutenberg.org/2009/agents/33215
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2009-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28227'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cryptography'
+- !lcc 'Z'
+title: "Les règles de Cicco Simonetta\r\npour le déchiffrement des écritures secrètes"
+url: http://www.gutenberg.org/ebooks/28227
